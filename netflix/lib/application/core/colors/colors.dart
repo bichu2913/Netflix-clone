@@ -1,0 +1,20 @@
+import 'package:flutter/material.dart';
+
+const kbackgroundcolor =Colors.black;
+const kwhite = Colors.white;
+final kbuttoncolorsblue =Colors.blueAccent[700];
+const kbuttoncolorswhite =Colors.white;
+const kblack=Colors.black;
+const kgrey =Colors.grey;
+const trailingColor = Colors.white;
+const searchTrailInsideCircle = Colors.black;
+const searchTrailCircle = Colors.white;
+dynamic searchBackColor = Colors.grey.withOpacity(0.4);
+const laughIconColor = Colors.white;
+const castIconColor = Colors.white;
+final navBar = Colors.black.withOpacity(0.2);
+const addIconColor = Colors.white;
+const playTextColor = Colors.black;
+const newhotColor = Colors.white;
+const bottomLabelColor = Colors.black;
+const unbottomLabelColor = Colors.white;
